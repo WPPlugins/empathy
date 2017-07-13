@@ -1,0 +1,1 @@
+jQuery( document ) . ready( function( $ ) { $( '.empathy-dropdown-emotions' ) . change ( function() { if ( $( this ) . attr( 'value' ) != 0 && $( this ) . attr( 'value' ) != -1 ) window . location = $( this ) . attr( 'value' ); } ); } );

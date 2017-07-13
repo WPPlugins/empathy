@@ -1,0 +1,747 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Michael Sisk
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/empathy\n"
+"POT-Creation-Date: 2009-11-18 00:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: empathy-tags.php:86 empathy-widgets.php:7 empathy-widgets.php:50
+#: empathy-widgets.php:181 empathy.php:193 empathy.php:828 empathy.php:2035
+#: empathy.php:2042 empathy.php:2079
+msgid "Emotions"
+msgstr ""
+
+#: empathy-tags.php:158 empathy.php:1125 empathy.php:1247
+#, php-format
+msgid "Related by %s"
+msgstr ""
+
+#: empathy-walker-admin.php:66
+#, php-format
+msgid "Edit \"%s\""
+msgstr ""
+
+#: empathy-walker-admin.php:66 empathy.php:1562
+msgid "Edit"
+msgstr ""
+
+#: empathy-walker-admin.php:66 empathy.php:1563
+#, php-format
+msgid ""
+"You are about to delete '%s' and any files associated with it.\n"
+" 'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: empathy-walker-admin.php:66 empathy-walker-admin.php:86 empathy.php:1471
+#: empathy.php:1504 empathy.php:1563 empathy.php:1872 empathy.php:1909
+msgid "Delete"
+msgstr ""
+
+#: empathy-walker-admin.php:86
+#, php-format
+msgid ""
+"You are about to delete the file associated with '%s' for this theme.\n"
+" 'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: empathy-walker-admin.php:89
+#, php-format
+msgid "(%d posts)"
+msgstr ""
+
+#: empathy-walker.php:35 empathy.php:666 empathy.php:680
+#, php-format
+msgid "View all %s posts"
+msgstr ""
+
+#: empathy-walker.php:58
+#, php-format
+msgid "Feed for all %s posts"
+msgstr ""
+
+#: empathy-widgets.php:6
+msgid "A list or dropdown of emotions"
+msgstr ""
+
+#: empathy-widgets.php:20
+msgid "Select an Emotion"
+msgstr ""
+
+#: empathy-widgets.php:59 empathy-widgets.php:124 empathy-widgets.php:187
+msgid "Title:"
+msgstr ""
+
+#: empathy-widgets.php:60
+msgid "Show as dropdown"
+msgstr ""
+
+#: empathy-widgets.php:61
+msgid "Show post counts"
+msgstr ""
+
+#: empathy-widgets.php:62
+msgid "Show hierarchy"
+msgstr ""
+
+#: empathy-widgets.php:63 empathy-widgets.php:188
+msgid "Show emotions as images"
+msgstr ""
+
+#: empathy-widgets.php:67 empathy-widgets.php:128 empathy-widgets.php:192
+#: empathy.php:276
+msgid "- default -"
+msgstr ""
+
+#: empathy-widgets.php:86
+msgid "Display the emotional state of your site"
+msgstr ""
+
+#: empathy-widgets.php:87 empathy-widgets.php:119
+msgid "Site Emotion"
+msgstr ""
+
+#: empathy-widgets.php:147
+msgid "Your most frequent emotions in cloud format"
+msgstr ""
+
+#: empathy-widgets.php:148
+msgid "Emotion Cloud"
+msgstr ""
+
+#: empathy.php:70
+msgid "Anger"
+msgstr ""
+
+#: empathy.php:70
+msgid "Annoyance"
+msgstr ""
+
+#: empathy.php:70
+msgid "Concern"
+msgstr ""
+
+#: empathy.php:70
+msgid "Confusion"
+msgstr ""
+
+#: empathy.php:70
+msgid "Contempt"
+msgstr ""
+
+#: empathy.php:70
+msgid "Despair"
+msgstr ""
+
+#: empathy.php:70
+msgid "Deviousness"
+msgstr ""
+
+#: empathy.php:70
+msgid "Embarrassment"
+msgstr ""
+
+#: empathy.php:70
+msgid "Exhaustion"
+msgstr ""
+
+#: empathy.php:70
+msgid "Fear"
+msgstr ""
+
+#: empathy.php:70
+msgid "Joy"
+msgstr ""
+
+#: empathy.php:70
+msgid "Love"
+msgstr ""
+
+#: empathy.php:70
+msgid "Obsession"
+msgstr ""
+
+#: empathy.php:70
+msgid "Pain"
+msgstr ""
+
+#: empathy.php:70
+msgid "Pride"
+msgstr ""
+
+#: empathy.php:70
+msgid "Rage"
+msgstr ""
+
+#: empathy.php:70
+msgid "Sadness"
+msgstr ""
+
+#: empathy.php:70
+msgid "Shyness"
+msgstr ""
+
+#: empathy.php:70
+msgid "Surprise"
+msgstr ""
+
+#: empathy.php:70
+msgid "Vigilance"
+msgstr ""
+
+#: empathy.php:169 empathy.php:1481 empathy.php:1488
+msgid "Emotion"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (PACKAGE VERSION)  #-#-#-#-#
+#. Plugin Name of an extension
+#: empathy.php:190 empathy.php:197 empathy.php:198 empathy.php:270
+msgid "Empathy"
+msgstr ""
+
+#: empathy.php:192 empathy.php:1518
+msgid "Empathy Themes"
+msgstr ""
+
+#: empathy.php:192
+msgid "Themes"
+msgstr ""
+
+#: empathy.php:193 empathy.php:1861
+msgid "Empathy Emotions"
+msgstr ""
+
+#: empathy.php:194 empathy.php:2123
+msgid "Empathy Tools"
+msgstr ""
+
+#: empathy.php:194
+msgid "Tools"
+msgstr ""
+
+#: empathy.php:195 empathy.php:2183
+msgid "Empathy Settings"
+msgstr ""
+
+#: empathy.php:195
+msgid "Settings"
+msgstr ""
+
+#: empathy.php:200
+msgid "Empathy Documentation"
+msgstr ""
+
+#: empathy.php:200
+msgid "Empathy Support Group"
+msgstr ""
+
+#: empathy.php:207 empathy.php:1842 empathy.php:1952
+msgid "Description"
+msgstr ""
+
+#: empathy.php:207 empathy.php:1824 empathy.php:1935
+msgid "Slug"
+msgstr ""
+
+#: empathy.php:207
+msgid "Posts"
+msgstr ""
+
+#: empathy.php:273
+msgid "Emotion Theme"
+msgstr ""
+
+#: empathy.php:286
+msgid "Select an Empathy theme to use for displaying your emotions."
+msgstr ""
+
+#: empathy.php:290
+msgid "Current Emotion"
+msgstr ""
+
+#: empathy.php:293 empathy.php:1832 empathy.php:1942
+msgid "None"
+msgstr ""
+
+#: empathy.php:300
+msgid "Your current emotion can be displayed on your author page."
+msgstr ""
+
+#: empathy.php:857
+msgid "No Emotions"
+msgstr ""
+
+#: empathy.php:859
+msgid "No emotions"
+msgstr ""
+
+#: empathy.php:1284
+msgid "A theme name must be provided."
+msgstr ""
+
+#: empathy.php:1286
+#, php-format
+msgid "A theme named &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: empathy.php:1300
+#, php-format
+msgid ""
+"Empathy was not able to create some necessary directories. You will need to "
+"create a directory named %s in %s"
+msgstr ""
+
+#: empathy.php:1318
+#, php-format
+msgid ""
+"The directory for <a href=\"%s\" target=\"_blank\">&#8220;%s&#8221;</a> "
+"could not be deleted."
+msgstr ""
+
+#: empathy.php:1320
+#, php-format
+msgid "&#8220;%s&#8221; deleted."
+msgstr ""
+
+#: empathy.php:1328
+#, php-format
+msgid ""
+"This file for &#8220;%s&#8221; could not be deleted: <ul><li>%s</li></ul>"
+msgid_plural ""
+"These files for &#8220;%s&#8221; could not be deleted: <ul><li>%s</li></ul>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: empathy.php:1330
+msgid "The specified theme does not exist."
+msgstr ""
+
+#: empathy.php:1337
+msgid "The selected theme is already active."
+msgstr ""
+
+#: empathy.php:1351
+#, php-format
+msgid "%s deleted."
+msgstr ""
+
+#: empathy.php:1356 empathy.php:1375
+#, php-format
+msgid "%s could not be deleted."
+msgstr ""
+
+#: empathy.php:1358
+msgid "The specified file could not be found."
+msgstr ""
+
+#: empathy.php:1364
+msgid "You must select at least one file."
+msgstr ""
+
+#: empathy.php:1382
+#, php-format
+msgid "%d file deleted."
+msgid_plural "%d files deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: empathy.php:1384
+msgid "None of the selected files could be deleted."
+msgstr ""
+
+#: empathy.php:1386 empathy.php:1787
+msgid "Unknown action, please try again."
+msgstr ""
+
+#: empathy.php:1388 empathy.php:1789
+msgid "You must select an action."
+msgstr ""
+
+#: empathy.php:1419
+msgid "There was a problem uploading the file, please try again."
+msgstr ""
+
+#: empathy.php:1421
+msgid "Invalid file format. Empathy files must be gif, jpg, jpeg, png, or swf."
+msgstr ""
+
+#: empathy.php:1425
+#, php-format
+msgid "%s is too large to upload."
+msgstr ""
+
+#: empathy.php:1426
+#, php-format
+msgid "%s was only partially uploaded."
+msgstr ""
+
+#: empathy.php:1427
+msgid "Your servers temporary directory could not be found."
+msgstr ""
+
+#: empathy.php:1428
+#, php-format
+msgid "%s could not be saved properly after upload."
+msgstr ""
+
+#: empathy.php:1429
+msgid ""
+"The upload was halted by a PHP extensions. Some or all files may not have "
+"been uploaded."
+msgstr ""
+
+#: empathy.php:1434
+#, php-format
+msgid "%d file uploaded."
+msgid_plural "%d files uploaded."
+msgstr[0] ""
+msgstr[1] ""
+
+#: empathy.php:1434
+msgid "You may need to <a href=\""
+msgstr ""
+
+#: empathy.php:1462
+msgid "Edit Theme"
+msgstr ""
+
+#: empathy.php:1467 empathy.php:1500
+msgid "Upload"
+msgstr ""
+
+#: empathy.php:1470 empathy.php:1503 empathy.php:1871 empathy.php:1908
+msgid "Bulk Actions"
+msgstr ""
+
+#: empathy.php:1473 empathy.php:1506 empathy.php:1878 empathy.php:1915
+#: empathy.php:1966
+msgid "Apply"
+msgstr ""
+
+#: empathy.php:1523
+msgid "Create Theme"
+msgstr ""
+
+#: empathy.php:1553 empathy.php:1562
+#, php-format
+msgid "Edit &#8220;%s&#8221;"
+msgstr ""
+
+#: empathy.php:1561
+#, php-format
+msgid "Activate &#8220;%s&#8221;"
+msgstr ""
+
+#: empathy.php:1561
+msgid "Activate"
+msgstr ""
+
+#: empathy.php:1563
+#, php-format
+msgid "Delete &#8220;%s&#8221;"
+msgstr ""
+
+#: empathy.php:1609
+msgid "The emotion you are trying to create already exists."
+msgstr ""
+
+#: empathy.php:1616
+#, php-format
+msgid "Added new emotion &#8220;%s&#8221;"
+msgstr ""
+
+#: empathy.php:1632
+#, php-format
+msgid "&#8220;%s&#8221; could not be updated because no name was provided."
+msgstr ""
+
+#: empathy.php:1634
+#, php-format
+msgid ""
+"&#8220;%s&#8221; could not be updated because emotions cannot be set as "
+"their own parent."
+msgstr ""
+
+#: empathy.php:1656
+#, php-format
+msgid ""
+"This file previously associated with &#8220;%s&#8221; could not be renamed: "
+"<ul><li>%s</li></ul>"
+msgid_plural ""
+"These files previously associated with &#8220;%s&#8221; could not be "
+"renamed: <ul><li>%s</li></ul>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: empathy.php:1662
+#, php-format
+msgid "&#8220;%s&#8221; updated."
+msgstr ""
+
+#: empathy.php:1692
+#, php-format
+msgid ""
+"This file previously associated with &#8220;%s&#8221; could not be deleted: "
+"<ul><li>%s</li></ul>"
+msgid_plural ""
+"These files previously associated with &#8220;%s&#8221; could not be "
+"deleted: %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: empathy.php:1696
+#, php-format
+msgid "Deleted &#8220;%s&#8221;"
+msgstr ""
+
+#: empathy.php:1698
+msgid "The specified emotion does not exist."
+msgstr ""
+
+#: empathy.php:1706
+#, php-format
+msgid "&#8220;%s&#8221; is already a default emotion."
+msgstr ""
+
+#: empathy.php:1718
+#, php-format
+msgid "&#8220;%s&#8221; is not a default emotion."
+msgstr ""
+
+#: empathy.php:1728
+msgid "You must select at least one emotion."
+msgstr ""
+
+#: empathy.php:1740
+msgid "All of the selected emotions are already default collections."
+msgstr ""
+
+#: empathy.php:1751
+msgid "None of the selected emotions are default emotions."
+msgstr ""
+
+#: empathy.php:1783
+#, php-format
+msgid "%d emotion deleted."
+msgid_plural "%d emotions deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: empathy.php:1785
+msgid "None of the selected emotions could be deleted."
+msgstr ""
+
+#: empathy.php:1814
+msgid "Edit Emotion"
+msgstr ""
+
+#: empathy.php:1819 empathy.php:1885 empathy.php:1892 empathy.php:1930
+msgid "Name"
+msgstr ""
+
+#: empathy.php:1821 empathy.php:1932
+msgid "The name is used to identify the emotion almost everywhere."
+msgstr ""
+
+#: empathy.php:1826 empathy.php:1937
+msgid ""
+"The &#8220;slug&#8221; is the URL-friendly version of the name. It is "
+"usually all lowercase and contains only letters, numbers, and hyphens."
+msgstr ""
+
+#: empathy.php:1829 empathy.php:1940
+msgid "Parent"
+msgstr ""
+
+#: empathy.php:1838 empathy.php:1949
+msgid ""
+"Emotions are hierarchical, so one emotion may contain any number of sub-"
+"emotions."
+msgstr ""
+
+#: empathy.php:1845 empathy.php:1954
+msgid ""
+"The description is useful for providing a brief explanation of the emotion."
+msgstr ""
+
+#: empathy.php:1850
+msgid "Update Emotion"
+msgstr ""
+
+#: empathy.php:1868 empathy.php:1905
+msgid "&laquo;"
+msgstr ""
+
+#: empathy.php:1868 empathy.php:1905
+msgid "&raquo;"
+msgstr ""
+
+#: empathy.php:1873 empathy.php:1910
+msgid "Defaults"
+msgstr ""
+
+#: empathy.php:1874 empathy.php:1911
+msgid "Add"
+msgstr ""
+
+#: empathy.php:1875 empathy.php:1912
+msgid "Remove"
+msgstr ""
+
+#: empathy.php:1926 empathy.php:1957
+msgid "Add Emotion"
+msgstr ""
+
+#: empathy.php:1966
+msgid "Options"
+msgstr ""
+
+#: empathy.php:1966
+msgid "Emotions per page:"
+msgstr ""
+
+#: empathy.php:1986
+msgid "You must select at least one post."
+msgstr ""
+
+#: empathy.php:1995
+msgid "Emotions changed."
+msgstr ""
+
+#: empathy.php:2001
+#, php-format
+msgid ""
+"Empathy information, files, and settings have been removed. Please <a href="
+"\"%s\">deactivate the plugin</a> to complete the uninstallation."
+msgstr ""
+
+#: empathy.php:2024 empathy.php:2126
+msgid "Batch Emotions"
+msgstr ""
+
+#: empathy.php:2034 empathy.php:2041
+msgid "Post"
+msgstr ""
+
+#: empathy.php:2053
+msgid "View this post"
+msgstr ""
+
+#: empathy.php:2065
+msgid "&hellip;"
+msgstr ""
+
+#: empathy.php:2091
+msgid ""
+"The emotions you select will replace any existing emotions on the selected "
+"posts. Selecting no emotions will remove all emotions from the selected "
+"posts."
+msgstr ""
+
+#: empathy.php:2092
+msgid "Change Emotions"
+msgstr ""
+
+#: empathy.php:2105 empathy.php:2112 empathy.php:2131
+msgid "Uninstall Empathy"
+msgstr ""
+
+#: empathy.php:2109
+msgid ""
+"This will completely remove any information, files, and settings related to "
+"Empathy. You will still need to deactivate and delete the plugin itself "
+"after uninstalling. Are you sure you want to uninstall Empathy?"
+msgstr ""
+
+#: empathy.php:2111
+msgid "Cancel"
+msgstr ""
+
+#: empathy.php:2127
+msgid "Quickly change the emotions associated with the posts on your site."
+msgstr ""
+
+#: empathy.php:2132
+msgid "Completely removes all files and information related to Empathy."
+msgstr ""
+
+#: empathy.php:2165
+msgid "Settings saved."
+msgstr ""
+
+#: empathy.php:2188
+msgid "Site Integration"
+msgstr ""
+
+#: empathy.php:2200
+msgid "above"
+msgstr ""
+
+#: empathy.php:2201
+msgid "below"
+msgstr ""
+
+#: empathy.php:2213
+msgid "flat list"
+msgstr ""
+
+#: empathy.php:2214
+msgid "structured list"
+msgstr ""
+
+#: empathy.php:2215
+msgid "cloud"
+msgstr ""
+
+#: empathy.php:2218
+#, php-format
+msgid "Show emotions %s post content as a %s"
+msgstr ""
+
+#: empathy.php:2220
+msgid "Show emotionally-related posts on single-post pages"
+msgstr ""
+
+#: empathy.php:2221
+msgid "Show emotion names and descriptions on archive pages"
+msgstr ""
+
+#: empathy.php:2226
+msgid "Save Changes"
+msgstr ""
+
+#: empathy.php:2226
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\" title=\"Show your support by donating"
+"\">Donate</a> | Empathy %s"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://groups.google.com/group/empathy-discussion/"
+msgstr ""
+
+#. Description of an extension
+msgid ""
+"You're emotional. Empathy understands. Make your emotions an integral part "
+"of your site with Empathy."
+msgstr ""
+
+#. Author of an extension
+msgid "Michael Sisk"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://maikeruon.com/"
+msgstr ""
